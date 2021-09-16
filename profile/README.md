@@ -1,8 +1,8 @@
 ## Hi there 👋
 We are Piyasha  
-#Mission 
+# Mission 
 To create Custom rom that help people 
-#vision
+# vision
 To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization
 <!--
 
