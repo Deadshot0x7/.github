@@ -1,4 +1,4 @@
-![alogo.png](alogo.png)
+![Screenshot](alogo.png)
 ## Hi there 👋
 We are Piyasha we make custom rom for various devices  for gaming , peneratrate testing 
 # Mission 
