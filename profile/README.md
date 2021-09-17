@@ -6,7 +6,7 @@ To create Custom rom that help people
 # vision
 To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization
 # Contribuation
-Want to Contribute to the Piyasha , Well fill the google form and make a  custom rom for your Device or solve any of the issue related to your Device<!--
+Want to Contribute to the Piyasha , Well fill the google form (https://forms.gle/ZhDD5eEnhtVffFUbA) and make a  custom rom for your Device or solve any of the issue related to your Device<!--
 
 **Here are some ideas to get you started:**
 
