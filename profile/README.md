@@ -1,5 +1,6 @@
 ## Hi there 👋
-[screenshot][alogo.png]
+![Screenshot](alogo.png)
+
 We are Piyasha we make custom rom for various devices  for gaming , peneratrate testing 
 # Mission 
 To create Custom rom that help people 
