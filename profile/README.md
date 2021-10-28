@@ -7,6 +7,12 @@ To create Custom rom that help people
 To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization
 # Contribuation
 Want to Contribute to the Piyasha , Well fill the google form (https://forms.gle/ZhDD5eEnhtVffFUbA) and make a  custom rom for your Device or solve any of the issue related to your Device
+# Support
+Piyasha is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the Piyasha ny doing some amount of donation . 
+if you wish to donate some moeny to the Piyasha , then use can use below links 
+
+<a href='https://ko-fi.com/P5P14S9M5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 Minimum Requirment to contribut to te Piyasha 
 1. High Speed Internet 
