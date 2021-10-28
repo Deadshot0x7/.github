@@ -8,6 +8,11 @@ To create custom rom across the device that help with soomth gaming experience a
 # Contribuation
 Want to Contribute to the Piyasha , Well fill the google form (https://forms.gle/ZhDD5eEnhtVffFUbA) and make a  custom rom for your Device or solve any of the issue related to your Device
 
+Minimum Requirment to contribut to te Piyasha 
+1. High Speed Internet 
+2. Having Disk More than of 100 gigs  
+3. Knowlege of git and github
+
 <!--
 
 **Here are some ideas to get you started:**
