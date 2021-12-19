@@ -2,7 +2,7 @@
 ## Hi there 👋
 We are Phoenix we make custom rom for various devices  for gaming , peneratrate testing 
 # Mission 
-To create Custom rom that help people 
+To create Custom rom that help Pentester to penetratet the web
 # vision
 To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization
 # Contribuation and Mainternership
