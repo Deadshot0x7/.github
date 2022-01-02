@@ -4,7 +4,7 @@
 ResusrectedBird is aftermarket firmware  Based on Andriod Open Source Project that helps the Pentester to Peneratrate the web with smooth gaming while  Amazing User face Interface Experience. We have picked some of the amazing features for gaming purposes.  You can find an amazing app alongside the Rom which will help you perform gaming tasks seamlessly while having full fledged User Interface Customization 
  
 
-We are Phoenix we make custom rom for various devices  for gaming , peneratrate testing 
+
 
 # Mission 
 To create Custom rom that help Pentester to penetratet the web
