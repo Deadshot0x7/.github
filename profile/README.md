@@ -22,7 +22,7 @@ Phoenix is an open source  custom rom and need the support of the commuinyt , Go
 
 Phoenix is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the Piyasha by doing  some amount of donation . 
 
-if you wish to donate some moeny to the Phoenix , then use can use below links to donate 
+if you wish to donate some moeny to the RessurectedBird , then use can use below links to donate 
 
 <a href='https://ko-fi.com/P5P14S9M5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
