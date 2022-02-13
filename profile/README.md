@@ -4,21 +4,23 @@
 ResusrectedBird is aftermarket firmware  Based on Andriod Open Source Project that helps the Pentester to Peneratrate the web with smooth gaming while  Amazing User face Interface Experience. We have picked some of the amazing features for gaming purposes.  You can find an amazing app alongside the Rom which will help you perform gaming tasks seamlessly while having full fledged User Interface Customization 
  
 
+We are Phoenix we make custom rom for various devices  for gaming , peneratrate testing 
+    
+ # vision 👀
+To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization 
 
-
-# Mission 
-To create Custom rom that help Pentester to penetratet the web
-# vision
-To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization
-# Contribuation and Mainternership
-Want to Contribute to the Phoenix ? if yes then you should atleast have the  Minimum requirement to contribute . the Minimum requirement are listed below  if you already satisfu the minum Requirement the please fille the form of on this webiste (https://sites.google.com/view/contribuation/home)
+# Contribuation and Mainternership  👨‍💻
+Want to COntribute to the Phoenix ? if yes then you should atleast have the  Minimum requirement to contribute . the Minimum requirement are listed below  if you already satisfu the minum Requirement the please fille the form of on this webiste (https://sites.google.com/view/contribuation/home)
 Minimum Requirment to contribute to the Phoenix 
 1. High Speed Internet 
 2. Having Disk More than of 100 gigs  
 3. Knowlege of git and github
 
-# Donations 
-RessurectedBird is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the Phoenix by doing  some amount of donation . 
+# Support ⚙
+
+Phoenix is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the Phoenix by doing  some amount of donation . 
+
+Phoenix is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the Piyasha by doing  some amount of donation . 
 
 if you wish to donate some moeny to the RessurectedBird , then use can use below links to donate 
 
