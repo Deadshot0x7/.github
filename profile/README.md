@@ -6,7 +6,7 @@ ResusrectedBird is aftermarket firmware  Based on Andriod Open Source Project th
 
 We are Phoenix we make custom rom for various devices  for gaming , peneratrate testing 
     
- # vision 👀
+ # vision 
 To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization 
 
 # Contribuation and Mainternership  👨‍💻
