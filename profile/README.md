@@ -7,6 +7,8 @@
 We are ResusrectedBird we make custom rom for various devices  for gaming , peneratrate testing 
     
 # content 
+Some Quick Links 
+
 * [Watchface](https://ressurectedbird.netlify.app/watchface.html)
 * [Wallpaper](https://www.zedge.net/wallpaper/35d691c3-6c9a-41d4-8425-6a60bcc0245f)
   
