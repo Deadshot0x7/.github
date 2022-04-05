@@ -1,4 +1,4 @@
-![Screenshot](alogo.png)
+![Screenshot](alogo.jpg)
 ## Hi there 👋
 
 [ResusrectedBird](https://ressurectedbird.netlify.app/) is aftermarket firmware  Based on Andriod Open Source Project that helps the Pentester to Peneratrate the web with smooth gaming while  Amazing User face Interface Experience. We have picked some of the amazing features for gaming purposes.  You can find an amazing app alongside the Rom which will help you perform gaming tasks seamlessly while having full fledged User Interface Customization 
