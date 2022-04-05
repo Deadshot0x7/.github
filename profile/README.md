@@ -11,6 +11,7 @@ Some Quick Links To Visit !
 
 * [Watchface](https://ressurectedbird.netlify.app/watchface.html)
 * [Wallpaper](https://www.zedge.net/wallpaper/35d691c3-6c9a-41d4-8425-6a60bcc0245f)
+* [Contribuation](https://sites.google.com/view/contribuation/home)
   
  # vision 
 To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization 
