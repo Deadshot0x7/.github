@@ -7,6 +7,11 @@
 
 We are ResusrectedBird we make custom rom for various devices  for gaming , peneratrate testing 
     
+# Website 
+Webiste status  of the project 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f50d044f-7a47-4f7d-9ce9-ea591f29d02c/deploy-status)](https://app.netlify.com/sites/ressurectedbird/deploys)    
+    
 # content 
 Some Quick Links To Visit !
 
