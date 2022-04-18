@@ -7,8 +7,10 @@
 
 We are ResusrectedBird we make custom rom for various devices  for gaming , peneratrate testing 
     
+
  
     
+
 # content 
 Some Quick Links To Visit !
 
