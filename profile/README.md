@@ -13,11 +13,10 @@ Some Quick Links To Visit !
 
 * [Watchface](https://ressurectedbird.netlify.app/watchface.html)
 * [Wallpaper](https://www.zedge.net/wallpaper/35d691c3-6c9a-41d4-8425-6a60bcc0245f)
-* [Contribuation](https://sites.google.com/view/contribuation/home)
+* [Contribuation](https://ressurectedbird.netlify.app/contribution.html)
   
  # vision 
-To create custom rom across the device that help with soomth gaming experience and easy Penerateing tesing while having  fully feldge custmization 
-
+ THe vision of the cRessurectedBird is to make the custom rom for Penetrate testing and  Gaming for various purpose 
 # Contribuation and Mainternership  👨‍💻
 Want to COntribute to the ResusrectedBird ? if yes then you should atleast have the  Minimum requirement to contribute . the Minimum requirement are listed below  if you already satisfu the minum Requirement the please fille the form of on this webiste (https://sites.google.com/view/contribuation/home)
 Minimum Requirment to contribute to the ResusrectedBird 
