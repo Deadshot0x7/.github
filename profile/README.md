@@ -32,6 +32,9 @@ if you wish to donate some moeny to the RessurectedBird , then use can use below
 * [paypal](pypal.me/deadshot0x7)
 * [Buy me a coffe](https://www.buymeacoffee.com/Deadshot0x7/ressuretcedbird)
 * [Koi-fi](https://ko-fi.com/post/Piyasha-Thecustomrom-X8X65CE1W)
+# Credits
+## Netlify 
+<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-light.svg" alt="Deploys by Netlify" /> </a>
 <!--
 
 **Here are some ideas to get you started:**
