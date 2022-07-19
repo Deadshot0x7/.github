@@ -32,6 +32,22 @@ if you wish to donate some moeny to the RessurectedBird , then use can use below
 * [paypal](pypal.me/deadshot0x7)
 * [Buy me a coffe](https://www.buymeacoffee.com/Deadshot0x7/ressuretcedbird)
 * [Koi-fi](https://ko-fi.com/post/Piyasha-Thecustomrom-X8X65CE1W)
+# Downloads
+you can purchase the application from as well 
+# Application's 
+
+* Adb Expoilt
+
+| Tech Stack | Application Status | Application type | 
+|------------|----------------- |---------------------| 
+| Python | Developed  | [Paid](https://buy.stripe.com/aEU9E3fD04Zl1igdQS)
+
+* RouterExpoilt
+
+| Tech Stack | Application Status | Application Type | 
+|------------|--------------------|------------------|
+| Python | Development | [Paid](https://buy.stripe.com/14kg2r8ayajF9OMfYZ)
+
 # Credits
 ## Netlify 
 <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-light.svg" alt="Deploys by Netlify" /> </a>
