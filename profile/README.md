@@ -21,9 +21,9 @@ Minimum Requirment to contribute to the ResusrectedBird are :-
 
 # Support ⚙
 
-ResusrectedBird is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the ResusrectedBird by doing  some amount of donation . 
+ResusrectedBird is an open source  custom rom and need the support of the community , Go ahead by supporting the ResusrectedBird by doing  some amount of donation . 
 
-ResusrectedBird is an open source  custom rom and need the support of the commuinyt , Go ahead by supporting the Piyasha by doing  some amount of donation . 
+ 
 
 if you wish to donate some moeny to the RessurectedBird , then use can use below links to donate 
 
