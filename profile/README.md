@@ -49,8 +49,11 @@ you can purchase the application from as well
 | Python | Development | [Paid](https://buy.stripe.com/14kg2r8ayajF9OMfYZ)
 
 # Credits
-## Netlify 
+# Netlify 
 <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-light.svg" alt="Deploys by Netlify" /> </a>
+# Ressurection Remix
+
+thanks Ressurection Remix for the Base
 <!--
 
 **Here are some ideas to get you started:**
