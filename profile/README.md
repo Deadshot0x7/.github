@@ -33,7 +33,7 @@ if you wish to donate some moeny to the RessurectedBird , then use can use below
 * [Buy me a coffe](https://www.buymeacoffee.com/Deadshot0x7/ressuretcedbird)
 * [Koi-fi](https://ko-fi.com/post/Piyasha-Thecustomrom-X8X65CE1W)
 # Downloads
-you can purchase the application from as well 
+you can purchase the application from Here as well 
 # Application's 
 
 * Adb Expoilt
